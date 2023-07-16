@@ -1,8 +1,7 @@
-<Link to="/home">Home</Link>
-                <Link to="/login">Login</Link>
-                <Link to="/signup">Signup</Link>
-                <Routes>
-                    <Route path="/home" element={<p>hello</p>} />
-                    <Route path="/login" element={<p>hello</p>} />
-                    <Route path="/signup" element={<p>hello</p>} />
-                </Routes>
+/*
+  if you want to use MUI:
+  command:
+  npm i @mui/material
+  npm i  @emotion/react
+  npm i @emotion/styled
+*/
